@@ -1,3 +1,4 @@
+//hard skill class that extends skill
 class HardSkill extends Skill{
 
     //constructor

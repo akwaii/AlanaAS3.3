@@ -1,3 +1,4 @@
+//gift skill class that extends skill
 class GiftSkill extends Skill{
 
     //constructor

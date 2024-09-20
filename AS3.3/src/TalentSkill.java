@@ -1,3 +1,4 @@
+//talent skill class that extends skill
 class TalentSkill extends Skill{
 
     //constructor

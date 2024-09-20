@@ -1,3 +1,4 @@
+//soft skill class that extends skill
 class SoftSkill extends Skill{
 
     //constructor

@@ -1,3 +1,4 @@
+//abstract class for general skill
 abstract class Skill {
     private String name, type;
     private int skillLevel;
