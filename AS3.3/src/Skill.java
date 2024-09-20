@@ -26,7 +26,7 @@ abstract class Skill {
 
     //setter for type
     public void setType(String t){
-        this.name = t;
+        this.type = t;
     }
 
     //getter for skill level
@@ -38,4 +38,7 @@ abstract class Skill {
     public void setSkillLevel(int s){
         this.skillLevel = s;
     } 
+
+    //abstract method 
+    public abstract void identifySkill();
 }
